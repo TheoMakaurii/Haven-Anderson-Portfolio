@@ -31,7 +31,7 @@ nav ul{
 
 }
 
-nav li{
+li{
     color: pink;
     border: pink 1px solid;
     display: inline-flex;
