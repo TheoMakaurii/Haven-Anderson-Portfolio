@@ -17,7 +17,7 @@ header{
 
 nav{
     margin-top: 84px;
-    display: inline-flex;
+    display: inline-block;
     margin-top: 28px;
     margin-left: auto;
     margin-right: auto;
@@ -34,6 +34,7 @@ nav li{
     margin-right: 7px;
     border-radius: 28px;
     overflow: auto;
+    flex-direction: row;
 }
 
 body{
