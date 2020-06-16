@@ -57,7 +57,7 @@ main{
 .row{
     display: inline-block;
     margin: auto;
-    object-fit: cover;
+    object-fit:scale-down;
 }
 
 
@@ -69,6 +69,7 @@ img{
     margin-right: 7px;
     margin-left: 7px;
     margin-top: 7px;
+    object-fit: scale-down; 
 }
 footer{
     margin: auto;
