@@ -57,6 +57,7 @@ main{
 .row{
     display: inline-block;
     margin: auto;
+    object-fit: cover;
 }
 
 
