@@ -25,6 +25,12 @@ nav{
     width: auto;
 } 
 
+nav ul{
+    margin:auto;
+    padding:auto;
+
+}
+
 nav li{
     color: pink;
     border: pink 1px solid;
