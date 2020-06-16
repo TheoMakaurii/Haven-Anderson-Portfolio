@@ -17,7 +17,8 @@ header{
 
 nav{
     margin-top: 84px;
-    display: block;
+    display: inline-flex;
+    margin-top: 28px;
     margin-left: auto;
     margin-right: auto;
     overflow: auto;
@@ -27,7 +28,7 @@ nav{
 li{
     color: pink;
     border: pink 1px solid;
-    display: inline;
+    display: inline-flex;
     padding: 28px;
     margin-left: 7px;
     margin-right: 7px;
