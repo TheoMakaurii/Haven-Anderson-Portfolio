@@ -28,13 +28,12 @@ nav{
 li{
     color: pink;
     border: pink 1px solid;
-    display: inline-block;
+    display: inline;
     padding: 28px;
     margin-left: 7px;
     margin-right: 7px;
     border-radius: 28px;
     overflow: auto;
-    flex-direction: row;
 }
 
 body{
