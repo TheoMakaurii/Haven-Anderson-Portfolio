@@ -1,11 +1,13 @@
 header{
     display: flex;
     flex-direction: row;
+    padding-top: 28px ;
 }
 #title{
     margin-left: 28px;
     text-align: left;
-    font-family: fantasy;
+    font-family: 'Lobster';
+    font-weight: bold;
     background-color: black;
     color: pink;
     border: pink 1px solid;
@@ -17,6 +19,7 @@ header{
 
 nav{
     margin-top: 84px;
+    font-family: 'Lobster';
     display: inline-block;
     margin-top: 28px;
     margin-left: auto;
